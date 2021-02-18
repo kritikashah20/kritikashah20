@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![](https://gpvc.arturio.dev/kritikashah20)
 <br>
 <p align="center">
 <a href="https://twitter.com/Kritika73130462">
@@ -22,6 +21,8 @@
 - 🔭 I’m currently working on App Development & ML/AI 
 
 <!--
+![](https://gpvc.arturio.dev/kritikashah20)
+
 **kritikashah20/kritikashah20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
