@@ -19,7 +19,7 @@
 <br>
 
 - 🔭 I’m currently working on App Development & ML/AI 
-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <!--
@@ -29,6 +29,7 @@
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 Here are some ideas to get you started:
+- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on App Development & ML/AI 
 - 🌱 I’m currently learning RASA Framework
